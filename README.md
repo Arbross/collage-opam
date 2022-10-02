@@ -1,4 +1,4 @@
-# collage-opam
+# Collage OPAM
 It is a repository to save and send my works. Collage tasks and labs works.
 
 Task loaded now : 
