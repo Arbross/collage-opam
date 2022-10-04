@@ -4,13 +4,13 @@
 using namespace std;
 
 // Method that solving exercise one
-int solveTaskOne(int n)
+double solveTaskOne(int n)
 {
     return ((cbrt(n - 1) * log10(pow(2, n)) - tan((n + 1) / pow(n, 3))) / (acos(0.85) + log10(n))) + 2.75;
 }
 
 // Method that solving exercise one
-int solveTaskTwo(int x)
+double solveTaskTwo(int x)
 {
     return atan((1 / x) / sqrt(1 - ((1 / x) * (1 / x)))) / (-2 * exp(-x));
 }
