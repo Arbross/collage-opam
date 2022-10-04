@@ -2,5 +2,6 @@
 It is a repository to save and send my works. Collage tasks and labs works.
 
 Task loaded now : 
- - Lab 1. OPAM (PDF)
- - Lab 2. OPAM (C++ project + screenshots of diagrams)
+ - Lab 1. OPAM (PDF, docs)
+ - Lab 2. OPAM (C++ project + screenshots of diagrams, docs)
+ - Lab 3. OPAM (C++ project + screenshots of diagrams, docs)
