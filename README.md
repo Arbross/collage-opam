@@ -6,3 +6,4 @@ Task loaded now :
  - Lab 2. OPAM (C++ project + screenshots of diagrams, docs)
  - Lab 3. OPAM (C++ project + screenshots of diagrams, docs)
  - Lab 4. OPAM (C++ project + screenshots of diagrams, docs)
+ - Lab 5. OPAM (C++ project + screenshots of diagrams, docs)
