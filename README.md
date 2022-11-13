@@ -14,3 +14,4 @@ Task loaded now :
  - Lab 10. OPAM (C++ project + screenshots of diagrams, docs)
  - Lab 15. OPAM (C++ project + screenshots of diagrams, docs)
  - Lab 17. OPAM (C++ project + screenshots of diagrams, docs)
+ - Cryptography. OPAM (C++ project)
